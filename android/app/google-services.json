@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291027720258",
+    "project_id": "logintask-fc0f6",
+    "storage_bucket": "logintask-fc0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291027720258:android:7f771a100bd31ba77c75db",
+        "android_client_info": {
+          "package_name": "com.example.digital_salt_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-pSr2xVQ3GOtCa7AOCYiWxFPC8o597I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291027720258:android:8570b41f914c7cb57c75db",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-pSr2xVQ3GOtCa7AOCYiWxFPC8o597I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
